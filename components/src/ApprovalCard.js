@@ -9,10 +9,10 @@ const ApprovalCard = (props) => {
       <div className="extra content">
         <div className="ui two buttons">
           <div className="ui basic green button">
-            Approve
+            Approve!
           </div>
           <div className="ui basic red button">
-            Reject
+            Reject!
           </div>
         </div>
       </div>
